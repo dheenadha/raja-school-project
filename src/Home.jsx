@@ -71,7 +71,7 @@ export default class Home extends PureComponent {
         </Col>
         <Col md={4}>
           <div className="p-3 border bg-light">
-            <h4>Get licence</h4>
+            <h4>Get licencg</h4>
             <p>This is the third column in the second row, completing the layout for the row.</p>
           </div>
         </Col>
